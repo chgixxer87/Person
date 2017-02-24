@@ -10,7 +10,7 @@ public abstract class Person {
 	
 	public Person(){
 		
-	
+	//änderung 2 auf github
 		
 	}
 	
