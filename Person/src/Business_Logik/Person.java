@@ -2,6 +2,7 @@ package Business_Logik;
 
 public abstract class Person {
 	
+	//änderung auf github
 	protected String NName;
 	protected String VName;
 	protected String birthday;
