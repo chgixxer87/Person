@@ -11,6 +11,7 @@ public abstract class Person {
 	public Person(){
 		
 	//änderung 2 auf github
+		//$nderung3 auf github
 		
 	}
 	
