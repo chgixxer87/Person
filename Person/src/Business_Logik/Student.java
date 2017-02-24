@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Student extends Person {
 	
+	
+	//änderung auf github
 	String schule;
 	String studiengang;
 	int ID;
