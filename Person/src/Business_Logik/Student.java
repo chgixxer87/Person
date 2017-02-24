@@ -16,9 +16,9 @@ public class Student extends Person {
 	public static void inscribe(Scanner read){
 		//da static mehtode kann auf die instanzvariablen nicht
 		//zugegriffen werden (es wurde ja noch kein Student obj erzeugt)
-		//-->lösung: temporäres stundenten-obj erstellen
+		//-->lï¿½sung: temporï¿½res stundenten-obj erstellen
 		Student s= new Student();
-		s.schule
+	
 		
 		
 		
@@ -29,7 +29,7 @@ public class Student extends Person {
 	}
 	
 	public String toString(){
-		return super.toString()+"\nSchule: "+this.schule+"\nStudiengang: "+this.studiengang+"\nSchüler-ID: "+this.ID;
+		return super.toString()+"\nSchule: "+this.schule+"\nStudiengang: "+this.studiengang+"\nSchï¿½ler-ID: "+this.ID;
 		
 	}
 	
